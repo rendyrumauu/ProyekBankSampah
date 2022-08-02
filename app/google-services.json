@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "490865437716",
+    "project_id": "proyekti-59ec4",
+    "storage_bucket": "proyekti-59ec4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490865437716:android:4855837803ef51554d0b01",
+        "android_client_info": {
+          "package_name": "com.rerumau.proyekti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490865437716-ev9ebjgbhh4bsql6iletcrtc8obhr8oj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rerumau.proyekti",
+            "certificate_hash": "b3bbb7b8978a39f0ce29bfab2edfc1ad676fea76"
+          }
+        },
+        {
+          "client_id": "490865437716-0gv0hep3oa02e2e81jpj4nh0btrsv8rc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl-EQspagkrS_Z0KGLgRos2dhK7_TpzHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490865437716-0gv0hep3oa02e2e81jpj4nh0btrsv8rc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
